@@ -1,0 +1,3 @@
+#!/bin/bash
+# lyrics_snippets CLI: ./snip --help  (engine/snip.py under uv with numpy + pillow)
+exec uv run --quiet --with numpy --with pillow python -I "$(dirname "$0")/engine/snip.py" "$@"

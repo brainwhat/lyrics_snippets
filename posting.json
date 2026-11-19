@@ -1,0 +1,9 @@
+{
+ "slots": ["12:00", "16:00", "20:00"],
+ "per_day": 3,
+ "lead_min": 60,
+ "max_days": 10,
+ "caption": "{line}\n\n{title}{by}\n{tags}",
+ "tags": ["#lyrics", "#текстпесни", "#{titletag}"],
+ "auto": true
+}

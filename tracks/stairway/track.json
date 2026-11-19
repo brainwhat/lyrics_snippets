@@ -1,0 +1,30 @@
+{
+ "title": "Stairway to Heaven",
+ "artist": "Led Zeppelin",
+ "lang": "en",
+ "source": "~/Desktop/Музяка/Led Zeppelin - Led Zeppelin IV/04 - Stairway to Heaven.flac",
+ "sections": [
+  {
+   "name": "куплет 1",
+   "start": 52.0,
+   "end": 81.2
+  },
+  {
+   "name": "куплет «bustle in your hedgerow»",
+   "start": 258.4,
+   "end": 285.0
+  },
+  {
+   "name": "финал",
+   "start": 405.0,
+   "end": 436.9
+  }
+ ],
+ "notes": "",
+ "duration": 480.31,
+ "videos": [
+  "sw1",
+  "sw2",
+  "sw3"
+ ]
+}

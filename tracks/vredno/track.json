@@ -1,0 +1,24 @@
+{
+ "title": "Перестань, ведь это вредно",
+ "artist": "feelthsame",
+ "lang": "ru",
+ "source": "~/Downloads/перестань ведь это вредно (2419010946).mp3",
+ "sections": [
+  {
+   "name": "куплет",
+   "start": 0.0,
+   "end": 28.82
+  },
+  {
+   "name": "повтор куплета",
+   "start": 28.82,
+   "end": 61.2
+  }
+ ],
+ "notes": "Голос идёт без пауз от начала до конца. Текст пользователя - в videos/lyrics/vredno2.txt («Cavempt так»); vredno1 - старая расшифровка на слух.",
+ "duration": 61.73,
+ "videos": [
+  "vredno1",
+  "vredno2"
+ ]
+}

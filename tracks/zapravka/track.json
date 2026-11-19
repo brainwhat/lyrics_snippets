@@ -1,0 +1,29 @@
+{
+ "title": "Заправка",
+ "artist": "feelthsame",
+ "lang": "ru",
+ "source": "~/Downloads/заправка (1997774303).mp3",
+ "sections": [
+  {
+   "name": "хук ×2",
+   "start": 12.5,
+   "end": 39.1
+  },
+  {
+   "name": "куплет",
+   "start": 39.5,
+   "end": 53.3
+  },
+  {
+   "name": "хук ×2",
+   "start": 53.48,
+   "end": 79.6
+  }
+ ],
+ "notes": "Whisper почти не разбирает трек - перед рендером engine/window_words.py с текстом.",
+ "duration": 94.61,
+ "videos": [
+  "zapravka1",
+  "zapravka2"
+ ]
+}

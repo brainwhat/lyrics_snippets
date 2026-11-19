@@ -1,0 +1,30 @@
+{
+ "title": "No Quarter",
+ "artist": "Led Zeppelin",
+ "lang": "en",
+ "source": "~/Desktop/Музяка/Led Zeppelin - Houses Of The Holy/07 - No Quarter (Remaster).flac",
+ "sections": [
+  {
+   "name": "куплет 1",
+   "start": 104.0,
+   "end": 131.9
+  },
+  {
+   "name": "куплет 2",
+   "start": 145.3,
+   "end": 174.5
+  },
+  {
+   "name": "куплет 3",
+   "start": 288.8,
+   "end": 314.9
+  }
+ ],
+ "notes": "",
+ "duration": 422.52,
+ "videos": [
+  "nq1",
+  "nq2",
+  "nq3"
+ ]
+}

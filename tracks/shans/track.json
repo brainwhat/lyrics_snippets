@@ -1,0 +1,35 @@
+{
+ "title": "Дай мне шанс",
+ "artist": "Scally Milano, uglystephan",
+ "lang": "ru",
+ "source": "~/Downloads/Дай Мне Шанс (feat. uglystephan) (1500275101).mp3",
+ "sections": [
+  {
+   "name": "куплет 1",
+   "start": 14.1,
+   "end": 38.4
+  },
+  {
+   "name": "припев «дай мне шанс» ×8",
+   "start": 40.4,
+   "end": 63.9
+  },
+  {
+   "name": "куплет 2",
+   "start": 64.38,
+   "end": 102.4
+  },
+  {
+   "name": "припев 2",
+   "start": 104.0,
+   "end": 128.3
+  }
+ ],
+ "notes": "Сделан только припев (shans2). Куплеты shans1/shans3 настроены в videos.json, но не рендерились.",
+ "duration": 140.85,
+ "videos": [
+  "shans1",
+  "shans2",
+  "shans3"
+ ]
+}

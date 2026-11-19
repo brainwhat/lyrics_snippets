@@ -1,0 +1,41 @@
+{
+ "title": "House by the Water",
+ "artist": "",
+ "lang": "en",
+ "source": "/Users/vasilijfrolov/Downloads/House by the Water.mp3",
+ "duration": 196.05,
+ "sections": [
+  {
+   "name": "куплет 1",
+   "start": 12.8,
+   "end": 39.7
+  },
+  {
+   "name": "припев 1",
+   "start": 39.7,
+   "end": 78.6
+  },
+  {
+   "name": "куплет 2 «country roads»",
+   "start": 78.6,
+   "end": 112.15
+  },
+  {
+   "name": "припев 2",
+   "start": 112.15,
+   "end": 149.6
+  },
+  {
+   "name": "проигрыш (голос без слов)",
+   "start": 149.6,
+   "end": 164.3
+  },
+  {
+   "name": "финальный припев",
+   "start": 164.3,
+   "end": 196.0
+  }
+ ],
+ "notes": "Английский, Whisper. Текст пользователя (верный) - videos/lyrics/water1-4.txt; Whisper слышит «house of bad water», «room for us to water» - ставить текст пользователя. Между куплетом 2 и припевом 2 пауза всего 0.3 с (112.1-112.3): конец куплета резать с inst. В проигрыше 151-164 с голос без слов (распев). Артист не указан.",
+ "videos": []
+}

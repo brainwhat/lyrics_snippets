@@ -1,0 +1,51 @@
+{
+ "title": "Cliché",
+ "artist": "",
+ "lang": "en",
+ "source": "/Users/vasilijfrolov/Downloads/cliche (1583449491).mp3",
+ "duration": 179.26,
+ "sections": [
+  {
+   "name": "вступление",
+   "start": 0.0,
+   "end": 11.1
+  },
+  {
+   "name": "куплет 1",
+   "start": 12.2,
+   "end": 24.15
+  },
+  {
+   "name": "предприпев + припев 1",
+   "start": 24.15,
+   "end": 49.3
+  },
+  {
+   "name": "припев ×2 + «down for the game»",
+   "start": 49.3,
+   "end": 78.1
+  },
+  {
+   "name": "бридж «play with me» + «dream»",
+   "start": 78.1,
+   "end": 99.7
+  },
+  {
+   "name": "«Chainsmokin'» ×2",
+   "start": 99.7,
+   "end": 124.0
+  },
+  {
+   "name": "припев ×2",
+   "start": 124.0,
+   "end": 151.2
+  },
+  {
+   "name": "аутро «down for the game»",
+   "start": 151.9,
+   "end": 164.8
+  }
+ ],
+ "notes": "Английский, Whisper. Между 24.4 и 94.7 с голос без пауз: резать по 20-мс провалам (49.22-49.38 между припевами 1 и 2, 61.84-61.90 между 2 и 3). Whisper врёт в припевах («bookie», «cut bands») и бридже («My man wants to play»). Текст пользователя - videos/lyrics/cliche1.txt. Артист не указан.",
+ "videos": []
+}

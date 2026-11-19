@@ -1,0 +1,24 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Сгенерированное и кэш
+cache/
+output/
+
+# Медиа (тяжёлое, в git не кладём)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.mp4
+*.mov
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Lock-файлы параллельных сессий
+*.lock

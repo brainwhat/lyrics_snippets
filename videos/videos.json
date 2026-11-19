@@ -1,0 +1,1618 @@
+{
+ "dora1": {
+  "track": "kakdora",
+  "part": "хук 1",
+  "start": 1.0,
+  "end": 33.6,
+  "clip": "35330875",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    1.0,
+    "mix"
+   ],
+   [
+    32.5,
+    "inst"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {
+   "46": 30.55,
+   "47": 31.25,
+   "28": 20.55,
+   "40": 28.72
+  },
+  "status": "delivered"
+ },
+ "dora2": {
+  "track": "kakdora",
+  "part": "куплет",
+  "start": 32.08,
+  "end": 66.6,
+  "clip": "5562992",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    32.08,
+    "inst"
+   ],
+   [
+    32.55,
+    "mix"
+   ],
+   [
+    65.32,
+    "inst"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "dora3": {
+  "track": "kakdora",
+  "part": "хук 2",
+  "start": 66.05,
+  "end": 97.6,
+  "clip": "3188149",
+  "clip_in": 0.5,
+  "tint": "cold",
+  "audio": [
+   [
+    66.05,
+    "inst"
+   ],
+   [
+    66.3,
+    "mix"
+   ]
+  ],
+  "fade": 1.2,
+  "onsets": {
+   "45": 94.7,
+   "46": 95.3,
+   "28": 84.55
+  },
+  "status": "delivered"
+ },
+ "sw1": {
+  "track": "stairway",
+  "part": "куплет 1",
+  "start": 52.0,
+  "end": 81.2,
+  "clip": "11515000",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    52.0,
+    "mix"
+   ]
+  ],
+  "fade": 1.2,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "sw2": {
+  "track": "stairway",
+  "part": "куплет «bustle»",
+  "start": 258.4,
+  "end": 285.0,
+  "clip": "15006694",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    258.4,
+    "mix"
+   ]
+  ],
+  "fade": 1.5,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "sw3": {
+  "track": "stairway",
+  "part": "финал",
+  "start": 403.5,
+  "end": 438.8,
+  "clip": "11514992",
+  "clip_in": 2.0,
+  "tint": "cream",
+  "audio": [
+   [
+    403.5,
+    "mix"
+   ],
+   [
+    436.9,
+    "inst"
+   ]
+  ],
+  "fade": 1.2,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "nq1": {
+  "track": "noquarter",
+  "part": "куплет 1",
+  "start": 104.0,
+  "end": 133.5,
+  "clip": "3700846",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    104.0,
+    "mix"
+   ],
+   [
+    131.9,
+    "inst"
+   ]
+  ],
+  "fade": 1.2,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "nq2": {
+  "track": "noquarter",
+  "part": "куплет 2",
+  "start": 145.3,
+  "end": 174.5,
+  "clip": "28757745",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    145.3,
+    "mix"
+   ]
+  ],
+  "fade": 1.5,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "nq3": {
+  "track": "noquarter",
+  "part": "куплет 3",
+  "start": 288.8,
+  "end": 316.0,
+  "clip": "15100741",
+  "clip_in": 1.0,
+  "tint": "steel",
+  "audio": [
+   [
+    288.8,
+    "mix"
+   ],
+   [
+    314.9,
+    "inst"
+   ]
+  ],
+  "fade": 1.0,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "alina1": {
+  "track": "alina",
+  "part": "хук + куплет",
+  "start": 0.0,
+  "end": 31.5,
+  "clip": "39257166",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "alina2": {
+  "track": "alina",
+  "part": "куплет + хук",
+  "start": 31.45,
+  "end": 61.1,
+  "clip": "20100164",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    31.45,
+    "mix"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "alina3": {
+  "track": "alina",
+  "part": "куплет ×2",
+  "start": 61.05,
+  "end": 94.6,
+  "clip": "10550175",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    61.05,
+    "mix"
+   ]
+  ],
+  "fade": 1.5,
+  "onsets": {
+   "0": 61.26,
+   "26": 76.92
+  },
+  "status": "delivered"
+ },
+ "neplach1": {
+  "track": "neplach",
+  "part": "припев (начало)",
+  "start": 43.0,
+  "end": 64.9,
+  "clip": "20087056",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    43.0,
+    "mix"
+   ],
+   [
+    64.0,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "neplach2": {
+  "track": "neplach",
+  "part": "припев (конец)",
+  "start": 64.0,
+  "end": 98.9,
+  "clip": "3842456",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    64.0,
+    "inst"
+   ],
+   [
+    64.85,
+    "mix"
+   ],
+   [
+    98.4,
+    "inst"
+   ]
+  ],
+  "fade": 1.0,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "neplach3": {
+  "track": "neplach",
+  "part": "последний припев",
+  "start": 229.8,
+  "end": 268.1,
+  "clip": "19887145",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    229.8,
+    "inst"
+   ],
+   [
+    230.3,
+    "mix"
+   ],
+   [
+    267.6,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "tsvety1": {
+  "track": "tsvety",
+  "part": "хук 1 + куплет",
+  "start": 1.0,
+  "end": 41.0,
+  "clip": "19492332",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    1.0,
+    "mix"
+   ],
+   [
+    40.32,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "15": 13.75
+  },
+  "status": "delivered"
+ },
+ "tsvety2": {
+  "track": "tsvety",
+  "part": "припев ×2",
+  "start": 40.32,
+  "end": 66.6,
+  "clip": "34277312",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    40.32,
+    "mix"
+   ],
+   [
+    65.9,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "14": 52.35
+  },
+  "status": "delivered"
+ },
+ "vredno1": {
+  "track": "vredno",
+  "part": "весь трек",
+  "start": 0.0,
+  "end": 61.7,
+  "clip": "35646798",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.5,
+  "onsets": {
+   "0": 0.02,
+   "103": 55.62,
+   "108": 57.32
+  },
+  "status": "delivered"
+ },
+ "shans1": {
+  "track": "shans",
+  "part": "куплет 1",
+  "start": 13.6,
+  "end": 39.4,
+  "clip": "15187649",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    13.6,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "draft"
+ },
+ "shans2": {
+  "track": "shans",
+  "part": "припев",
+  "start": 39.4,
+  "end": 65.0,
+  "clip": "30435345",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    39.4,
+    "mix"
+   ],
+   [
+    64.22,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "shans3": {
+  "track": "shans",
+  "part": "куплет 2",
+  "start": 64.25,
+  "end": 103.2,
+  "clip": "14446907",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    64.25,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "draft"
+ },
+ "zapravka1": {
+  "track": "zapravka",
+  "part": "хук ×2",
+  "start": 12.0,
+  "end": 39.9,
+  "clip": "15187649",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    12.0,
+    "mix"
+   ],
+   [
+    39.15,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "zapravka2": {
+  "track": "zapravka",
+  "part": "куплет + хук",
+  "start": 39.15,
+  "end": 80.6,
+  "clip": "14446907",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    39.15,
+    "mix"
+   ]
+  ],
+  "fade": 1.0,
+  "onsets": {
+   "75": 69.4,
+   "67": 66.18,
+   "68": 66.5,
+   "69": 66.84,
+   "70": 67.16,
+   "71": 67.3,
+   "72": 67.56,
+   "73": 67.95,
+   "74": 68.34
+  },
+  "status": "delivered"
+ },
+ "vredno2": {
+  "track": "vredno",
+  "part": "куплет до повтора",
+  "start": 0.0,
+  "end": 29.6,
+  "clip": "35646798",
+  "clip_in": 20.0,
+  "tint": "cold",
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ],
+   [
+    28.82,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 0.02
+  },
+  "status": "delivered"
+ },
+ "navsegda1": {
+  "track": "navsegda",
+  "part": "припев",
+  "start": 0.0,
+  "end": 25.8,
+  "clip": "6868445",
+  "clip_in": 2.0,
+  "tint": "cold",
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ],
+   [
+    25.08,
+    "inst"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {
+   "0": 0.3,
+   "5": 3.12,
+   "10": 6.48,
+   "16": 9.52,
+   "21": 12.72,
+   "26": 15.96,
+   "31": 19.2,
+   "36": 22.4,
+   "4": 2.74,
+   "9": 5.76,
+   "15": 8.94,
+   "20": 12.16,
+   "25": 15.56,
+   "30": 18.6,
+   "35": 21.8,
+   "40": 24.4
+  },
+  "status": "delivered"
+ },
+ "navsegda2": {
+  "track": "navsegda",
+  "part": "куплет 1",
+  "start": 25.08,
+  "end": 52.0,
+  "clip": "7592168",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    25.08,
+    "mix"
+   ],
+   [
+    51.36,
+    "inst"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "navsegda3": {
+  "track": "navsegda",
+  "part": "куплет 2",
+  "start": 51.36,
+  "end": 78.3,
+  "clip": "14744268",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    51.36,
+    "mix"
+   ],
+   [
+    77.55,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "vselennaya1": {
+  "track": "vselennaya",
+  "part": "куплет 1",
+  "start": 44.9,
+  "end": 70.8,
+  "clip": "16497612",
+  "clip_in": 4.0,
+  "tint": "cold",
+  "audio": [
+   [
+    44.9,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "vselennaya2": {
+  "track": "vselennaya",
+  "part": "куплет 2",
+  "start": 84.55,
+  "end": 109.0,
+  "clip": "27394420",
+  "clip_in": 10.0,
+  "tint": "steel",
+  "audio": [
+   [
+    84.55,
+    "mix"
+   ],
+   [
+    108.18,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "vselennaya3": {
+  "track": "vselennaya",
+  "part": "припев",
+  "start": 108.18,
+  "end": 139.4,
+  "clip": "38476920",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    108.18,
+    "mix"
+   ],
+   [
+    138.65,
+    "inst"
+   ]
+  ],
+  "fade": 0.7,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "pivo1": {
+  "track": "pivo",
+  "part": "хук 1",
+  "start": 13.0,
+  "end": 44.0,
+  "clip": "2356468",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    13.0,
+    "mix"
+   ],
+   [
+    43.28,
+    "inst"
+   ]
+  ],
+  "fade": 0.7,
+  "onsets": {
+   "33": 30.0,
+   "39": 34.73,
+   "40": 35.28,
+   "41": 35.58
+  },
+  "status": "delivered"
+ },
+ "pivo2": {
+  "track": "pivo",
+  "part": "куплет 1",
+  "start": 43.28,
+  "end": 84.0,
+  "clip": "6223805",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    43.28,
+    "mix"
+   ],
+   [
+    83.18,
+    "inst"
+   ]
+  ],
+  "fade": 0.7,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "pivo3": {
+  "track": "pivo",
+  "part": "куплет 2",
+  "start": 114.72,
+  "end": 144.2,
+  "clip": "6223837",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    114.72,
+    "mix"
+   ],
+   [
+    143.42,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 114.92
+  },
+  "status": "delivered"
+ },
+ "hochesh1": {
+  "track": "hochesh",
+  "part": "куплет 1 + припев 1",
+  "start": 0.0,
+  "end": 26.7,
+  "clip": "11855892",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "draft"
+ },
+ "hochesh2": {
+  "track": "hochesh",
+  "part": "куплет 2 + припев 2",
+  "start": 42.5,
+  "end": 69.4,
+  "clip": "18891105",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    42.5,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "draft"
+ },
+ "hochesh3": {
+  "track": "hochesh",
+  "part": "припев 3",
+  "start": 112.6,
+  "end": 142.9,
+  "clip": "6415315",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    112.6,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "vyhoda1": {
+  "track": "vyhoda",
+  "part": "куплет 1",
+  "start": 17.3,
+  "end": 43.5,
+  "clip": "19887145",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    17.3,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "vyhoda2": {
+  "track": "vyhoda",
+  "part": "припев 1",
+  "start": 43.5,
+  "end": 75.0,
+  "clip": "11855892",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    43.5,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "lyubov1": {
+  "track": "lyubov",
+  "part": "куплеты 1-2 + припев",
+  "start": 30.6,
+  "end": 90.6,
+  "clip": "19887145",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    30.6,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "kosmos1": {
+  "track": "kosmos",
+  "part": "куплет 1 (начало)",
+  "start": 1.7,
+  "end": 21.5,
+  "clip": "20556585",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    1.7,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "kosmos2": {
+  "track": "kosmos",
+  "part": "куплет 1 (конец)",
+  "start": 22.2,
+  "end": 52.0,
+  "clip": "20556585",
+  "clip_in": 20.0,
+  "tint": "steel",
+  "audio": [
+   [
+    22.2,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "kosmos3": {
+  "track": "kosmos",
+  "part": "куплет 2 (начало)",
+  "start": 100.4,
+  "end": 134.1,
+  "clip": "27394420",
+  "clip_in": 30.0,
+  "tint": "cold",
+  "audio": [
+   [
+    100.4,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "kosmos4": {
+  "track": "kosmos",
+  "part": "куплет 2 (конец) + хук",
+  "start": 134.05,
+  "end": 157.4,
+  "clip": "27394420",
+  "clip_in": 70.0,
+  "tint": "steel",
+  "audio": [
+   [
+    134.05,
+    "inst"
+   ],
+   [
+    134.12,
+    "mix"
+   ],
+   [
+    156.85,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "draft"
+ },
+ "kosmos5": {
+  "track": "kosmos",
+  "part": "хук",
+  "start": 156.85,
+  "end": 179.2,
+  "clip": "20556585",
+  "clip_in": 85.0,
+  "tint": "cold",
+  "audio": [
+   [
+    156.85,
+    "inst"
+   ],
+   [
+    156.9,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "draft"
+ },
+ "igra1": {
+  "track": "igra",
+  "part": "куплет 2 до «не был таким»",
+  "start": 65.3,
+  "end": 88.032,
+  "clip": "30554327",
+  "clip_in": 0.3,
+  "tint": "cold",
+  "audio": [
+   [
+    65.3,
+    "voc"
+   ],
+   [
+    65.95,
+    "mix"
+   ]
+  ],
+  "fade": 0.25,
+  "onsets": {
+   "0": 65.42,
+   "1": 66.08
+  },
+  "status": "delivered"
+ },
+ "igra2": {
+  "track": "igra",
+  "part": "припев 2",
+  "start": 88.032,
+  "end": 110.7,
+  "clip": "30554327",
+  "clip_in": 20.759,
+  "tint": "cold",
+  "audio": [
+   [
+    88.032,
+    "mix"
+   ]
+  ],
+  "fade": 1.2,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "utekai1": {
+  "track": "utekai",
+  "part": "куплет 1",
+  "start": 0.0,
+  "end": 39.0,
+  "clip": "6527126",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 0.05
+  },
+  "status": "rendered"
+ },
+ "utekai2": {
+  "track": "utekai",
+  "part": "куплет 2",
+  "start": 43.6,
+  "end": 81.8,
+  "clip": "9945249",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    43.6,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 44.1
+  },
+  "status": "rendered"
+ },
+ "stoboy1": {
+  "track": "stoboy",
+  "part": "припев 2 + «В комнате»",
+  "start": 108.95,
+  "end": 151.0,
+  "clip": "11855892",
+  "clip_in": 23.7,
+  "tint": "cold",
+  "audio": [
+   [
+    108.95,
+    "inst"
+   ],
+   [
+    109.12,
+    "mix"
+   ],
+   [
+    150.6,
+    "inst"
+   ]
+  ],
+  "fade": 0.7,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "cliche1": {
+  "track": "cliche",
+  "part": "предприпев + припев 1",
+  "start": 24.15,
+  "end": 50.3,
+  "clip": "8549580",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    24.15,
+    "mix"
+   ],
+   [
+    49.28,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "water1": {
+  "track": "water",
+  "part": "куплет 1",
+  "start": 12.8,
+  "end": 39.7,
+  "clip": "6156480",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    12.8,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "water2": {
+  "track": "water",
+  "part": "припев 1",
+  "start": 39.7,
+  "end": 78.6,
+  "clip": "28647789",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    39.7,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "water3": {
+  "track": "water",
+  "part": "куплет 2",
+  "start": 78.6,
+  "end": 113.5,
+  "clip": "35830059",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    78.6,
+    "mix"
+   ],
+   [
+    112.15,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "water4": {
+  "track": "water",
+  "part": "финальный припев",
+  "start": 163.6,
+  "end": 196.0,
+  "clip": "5628468",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    163.6,
+    "inst"
+   ],
+   [
+    164.35,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "london1": {
+  "track": "london",
+  "part": "куплет 1",
+  "start": 1.0,
+  "end": 35.9,
+  "clip": "12858363",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    1.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "9": 16.1,
+   "13": 18.31,
+   "19": 25.11,
+   "20": 29.95,
+   "23": 32.55
+  },
+  "status": "delivered"
+ },
+ "london2": {
+  "track": "london",
+  "part": "«Утром» + «зверь-одиночка» 1",
+  "start": 35.0,
+  "end": 75.0,
+  "clip": "12858363",
+  "clip_in": 45.0,
+  "tint": "cold",
+  "audio": [
+   [
+    35.0,
+    "mix"
+   ],
+   [
+    73.3,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 36.55,
+   "3": 40.24,
+   "8": 46.84,
+   "9": 47.24,
+   "12": 50.89,
+   "26": 65.0
+  },
+  "status": "delivered"
+ },
+ "london3": {
+  "track": "london",
+  "part": "куплет 2",
+  "start": 89.5,
+  "end": 125.2,
+  "clip": "855557",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    89.5,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "4": 97.4,
+   "17": 118.9
+  },
+  "status": "delivered"
+ },
+ "london4": {
+  "track": "london",
+  "part": "«Утром» + «зверь-одиночка» 2",
+  "start": 124.5,
+  "end": 164.6,
+  "clip": "6877506",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    124.5,
+    "inst"
+   ],
+   [
+    125.3,
+    "mix"
+   ],
+   [
+    162.0,
+    "inst"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 125.37,
+   "7": 135.2,
+   "8": 135.6,
+   "9": 135.98,
+   "12": 139.66,
+   "20": 147.21,
+   "21": 147.9,
+   "26": 154.0,
+   "38": 160.45
+  },
+  "status": "delivered"
+ },
+ "radio1": {
+  "track": "radio",
+  "part": "куплет 1 + припев 1",
+  "start": 8.8,
+  "end": 53.5,
+  "clip": "5482661",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    8.8,
+    "mix"
+   ],
+   [
+    52.45,
+    "inst"
+   ]
+  ],
+  "fade": 0.9,
+  "onsets": {
+   "84": 44.98,
+   "85": 45.3,
+   "86": 45.98
+  },
+  "status": "rendered"
+ },
+ "radio2": {
+  "track": "radio",
+  "part": "куплет 2 + предприпев 2",
+  "start": 52.4,
+  "end": 82.6,
+  "clip": "32963489",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    52.4,
+    "mix"
+   ],
+   [
+    81.5,
+    "inst"
+   ]
+  ],
+  "fade": 0.9,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "radio3": {
+  "track": "radio",
+  "part": "припев 2",
+  "start": 81.5,
+  "end": 111.6,
+  "clip": "4106940",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    81.5,
+    "mix"
+   ],
+   [
+    110.65,
+    "inst"
+   ]
+  ],
+  "fade": 0.9,
+  "onsets": {
+   "11": 88.48,
+   "12": 88.58,
+   "13": 88.98,
+   "14": 89.62,
+   "15": 91.7,
+   "16": 92.0,
+   "17": 92.34,
+   "18": 92.68,
+   "41": 106.32,
+   "42": 106.7,
+   "43": 106.88,
+   "44": 107.26
+  },
+  "status": "rendered"
+ },
+ "radio4": {
+  "track": "radio",
+  "part": "бридж «up, up» + припев 3",
+  "start": 110.0,
+  "end": 154.2,
+  "clip": "12424577",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    110.0,
+    "inst"
+   ],
+   [
+    110.62,
+    "mix"
+   ],
+   [
+    152.95,
+    "inst"
+   ]
+  ],
+  "fade": 0.9,
+  "onsets": {
+   "0": 110.7,
+   "1": 111.6,
+   "2": 112.3,
+   "3": 112.8,
+   "4": 113.2,
+   "5": 113.6,
+   "6": 113.9,
+   "7": 114.4,
+   "8": 115.22,
+   "9": 115.62,
+   "10": 115.96,
+   "11": 116.2,
+   "12": 116.88,
+   "13": 117.46,
+   "14": 117.76,
+   "15": 118.0,
+   "16": 118.9,
+   "17": 119.5,
+   "18": 120.0,
+   "41": 132.22,
+   "42": 132.6,
+   "43": 133.26,
+   "70": 149.96,
+   "71": 150.26,
+   "72": 150.52,
+   "73": 150.86
+  },
+  "status": "rendered"
+ },
+ "radio5": {
+  "track": "radio",
+  "part": "припев 4 + финальный припев",
+  "start": 153.2,
+  "end": 199.0,
+  "clip": "10753302",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    153.2,
+    "inst"
+   ],
+   [
+    154.1,
+    "mix"
+   ]
+  ],
+  "fade": 1.5,
+  "onsets": {
+   "0": 154.3,
+   "1": 154.98,
+   "2": 155.6,
+   "3": 155.94,
+   "4": 156.52,
+   "5": 156.84,
+   "6": 157.88,
+   "7": 158.64,
+   "8": 159.6,
+   "9": 160.0,
+   "10": 160.2,
+   "11": 161.2,
+   "12": 161.4,
+   "13": 161.7,
+   "14": 162.0,
+   "15": 164.56,
+   "16": 165.08,
+   "17": 165.3,
+   "18": 165.54,
+   "19": 168.9,
+   "20": 169.7,
+   "21": 169.94,
+   "22": 170.1,
+   "23": 170.44,
+   "24": 170.68,
+   "25": 170.84,
+   "26": 171.08,
+   "27": 171.58,
+   "28": 171.94,
+   "29": 172.48,
+   "30": 173.22,
+   "31": 173.68,
+   "32": 174.16,
+   "33": 174.54,
+   "34": 174.82,
+   "35": 175.14,
+   "36": 175.72,
+   "37": 175.95,
+   "38": 176.44,
+   "39": 176.7,
+   "40": 177.02,
+   "41": 178.95,
+   "42": 179.2,
+   "43": 179.52,
+   "44": 179.88
+  },
+  "status": "rendered"
+ },
+ "slowdancing1": {
+  "track": "slowdancing",
+  "part": "куплет 1",
+  "start": 21.9,
+  "end": 39.35,
+  "clip": "5517030",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    21.9,
+    "mix"
+   ]
+  ],
+  "fade": 0.6,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "slowdancing2": {
+  "track": "slowdancing",
+  "part": "предприпев",
+  "start": 45.2,
+  "end": 63.6,
+  "clip": "20126687",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    45.2,
+    "mix"
+   ]
+  ],
+  "fade": 0.4,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "slowdancing3": {
+  "track": "slowdancing",
+  "part": "припев 1",
+  "start": 63.45,
+  "end": 88.9,
+  "clip": "user_slowdancing",
+  "clip_in": 0.0,
+  "tint": "cold",
+  "audio": [
+   [
+    63.45,
+    "mix"
+   ]
+  ],
+  "fade": 0.5,
+  "onsets": {
+   "0": 64.05
+  },
+  "status": "delivered"
+ },
+ "slowdancing4": {
+  "track": "slowdancing",
+  "part": "припев 1 (конец)",
+  "start": 89.0,
+  "end": 107.6,
+  "clip": "6056609",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    89.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.8,
+  "onsets": {
+   "0": 90.05,
+   "1": 91.29,
+   "2": 91.45,
+   "3": 91.83,
+   "4": 92.13
+  },
+  "status": "delivered"
+ },
+ "slowdancing5": {
+  "track": "slowdancing",
+  "part": "куплет 2",
+  "start": 107.85,
+  "end": 137.0,
+  "clip": "11514996",
+  "clip_in": 0.0,
+  "tint": "steel",
+  "audio": [
+   [
+    107.85,
+    "mix"
+   ]
+  ],
+  "fade": 0.5,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "slowdancing6": {
+  "track": "slowdancing",
+  "part": "припев 2 и аутро",
+  "start": 153.3,
+  "end": 204.6,
+  "clip": "39121536",
+  "clip_in": 0.0,
+  "tint": "cream",
+  "audio": [
+   [
+    153.3,
+    "mix"
+   ]
+  ],
+  "fade": 1.0,
+  "onsets": {
+   "27": 176.21,
+   "28": 177.0,
+   "29": 177.61,
+   "30": 178.41,
+   "31": 179.0,
+   "32": 181.51,
+   "33": 182.91,
+   "34": 183.49,
+   "35": 188.13,
+   "36": 189.53,
+   "37": 190.93,
+   "38": 193.77,
+   "39": 194.29,
+   "40": 195.97
+  },
+  "status": "delivered"
+ }
+}

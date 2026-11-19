@@ -1,0 +1,31 @@
+{
+ "title": "Как дора",
+ "artist": "feelthsame",
+ "lang": "ru",
+ "bpm": 120,
+ "source": "~/Downloads/как дора  MASTER.wav",
+ "sections": [
+  {
+   "name": "хук 1",
+   "start": 3.0,
+   "end": 32.45
+  },
+  {
+   "name": "куплет",
+   "start": 32.65,
+   "end": 65.25
+  },
+  {
+   "name": "хук 2",
+   "start": 67.0,
+   "end": 96.2
+  }
+ ],
+ "notes": "После 96 с голоса нет. Сомнительные слова: «милый ублюдок», «типа тай», «бёдра не врут».",
+ "duration": 130.0,
+ "videos": [
+  "dora1",
+  "dora2",
+  "dora3"
+ ]
+}

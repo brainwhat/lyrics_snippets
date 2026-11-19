@@ -1,0 +1,30 @@
+{
+ "title": "Вновь алина",
+ "artist": "madk1d, hzrxrd",
+ "lang": "ru",
+ "source": "~/Downloads/madk1d, hzrxrd – вновь алина (unreleased) (2008450903).mp3",
+ "sections": [
+  {
+   "name": "хук + куплет",
+   "start": 0.0,
+   "end": 31.45
+  },
+  {
+   "name": "куплет + хук",
+   "start": 31.45,
+   "end": 61.05
+  },
+  {
+   "name": "куплет ×2",
+   "start": 61.05,
+   "end": 94.6
+  }
+ ],
+ "notes": "Голос не замолкает (двойной вокал) - резать по паузам между словами Whisper.",
+ "duration": 94.68,
+ "videos": [
+  "alina1",
+  "alina2",
+  "alina3"
+ ]
+}

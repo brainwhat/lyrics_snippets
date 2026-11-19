@@ -1,0 +1,933 @@
+{
+ "10550175": {
+  "file": "clips/pexels_10550175.mp4",
+  "sheet": "sheets/pexels_10550175.jpg",
+  "page": "https://www.pexels.com/video/10550175/",
+  "url": "https://videos.pexels.com/video-files/10550175/10550175-hd_1920_1080_30fps.mp4",
+  "duration": 59.7,
+  "max_video": 66.3,
+  "desc": "синий туманный хвойный лес, в конце (после ~40 с) снежная дорога сверху",
+  "tags": [
+   "лес",
+   "туман",
+   "хвоя",
+   "зима",
+   "синий"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": "после 40 с в кадре дорога"
+ },
+ "11514992": {
+  "file": "clips/pexels_11514992.mp4",
+  "sheet": "sheets/pexels_11514992.jpg",
+  "page": "https://www.pexels.com/video/11514992/",
+  "url": "https://videos.pexels.com/video-files/11514992/11514992-hd_1920_1080_30fps.mp4",
+  "duration": 59.3,
+  "max_video": 65.8,
+  "desc": "проход через туманный сосновый лес, светлый туман, сухая трава",
+  "tags": [
+   "лес",
+   "туман",
+   "движение"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "11515000": {
+  "file": "clips/pexels_11515000.mp4",
+  "sheet": "sheets/pexels_11515000.jpg",
+  "page": "https://www.pexels.com/video/11515000/",
+  "url": "https://videos.pexels.com/video-files/11515000/11515000-hd_1920_1080_30fps.mp4",
+  "duration": 38.3,
+  "max_video": 42.6,
+  "desc": "солнце сквозь туман над озером с камышом, тёплый",
+  "tags": [
+   "озеро",
+   "туман",
+   "солнце",
+   "тёплый"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "11855892": {
+  "file": "clips/pexels_11855892.mp4",
+  "sheet": "sheets/pexels_11855892.jpg",
+  "page": "https://www.pexels.com/video/11855892/",
+  "url": "https://videos.pexels.com/video-files/11855892/11855892-hd_1920_1080_60fps.mp4",
+  "duration": 61.7,
+  "max_video": 68.5,
+  "desc": "ночь, оранжевый фонарь, снег на ёлке, падает снег",
+  "tags": [
+   "ночь",
+   "фонарь",
+   "снегопад",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "14446907": {
+  "file": "clips/pexels_14446907.mp4",
+  "sheet": "sheets/pexels_14446907.jpg",
+  "page": "https://www.pexels.com/video/14446907/",
+  "url": "https://videos.pexels.com/video-files/14446907/14446907-hd_1920_1080_24fps.mp4",
+  "duration": 60.2,
+  "max_video": 66.9,
+  "desc": "куст роз, засыпанный снегом, на тёмном фоне",
+  "tags": [
+   "цветы",
+   "розы",
+   "снег"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "14744268": {
+  "file": "clips/pexels_14744268.mp4",
+  "sheet": "sheets/pexels_14744268.jpg",
+  "page": "https://www.pexels.com/video/14744268/",
+  "url": "https://videos.pexels.com/video-files/14744268/14744268-hd_1920_1080_30fps.mp4",
+  "duration": 35.9,
+  "max_video": 39.9,
+  "desc": "фонарь в метели ночью, крупный снег в свете",
+  "tags": [
+   "ночь",
+   "фонарь",
+   "метель",
+   "огни",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "15006694": {
+  "file": "clips/pexels_15006694.mp4",
+  "sheet": "sheets/pexels_15006694.jpg",
+  "page": "https://www.pexels.com/video/15006694/",
+  "url": "https://videos.pexels.com/video-files/15006694/15006694-hd_1920_1080_30fps.mp4",
+  "duration": 31.0,
+  "max_video": 34.5,
+  "desc": "туманный лиственный лес, золотая сухая трава, камера едет",
+  "tags": [
+   "лес",
+   "туман",
+   "осень",
+   "движение"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "15100741": {
+  "file": "clips/pexels_15100741.mp4",
+  "sheet": "sheets/pexels_15100741.jpg",
+  "page": "https://www.pexels.com/video/15100741/",
+  "url": "https://videos.pexels.com/video-files/15100741/15100741-hd_1920_1080_25fps.mp4",
+  "duration": 60.3,
+  "max_video": 67.0,
+  "desc": "серый замёрзший берег, полоска камыша, туман",
+  "tags": [
+   "берег",
+   "лёд",
+   "туман",
+   "пусто"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "15187649": {
+  "file": "clips/pexels_15187649.mp4",
+  "sheet": "sheets/pexels_15187649.jpg",
+  "page": "https://www.pexels.com/video/15187649/",
+  "url": "https://videos.pexels.com/video-files/15187649/15187649-hd_1920_1080_30fps.mp4",
+  "duration": 30.0,
+  "max_video": 33.4,
+  "desc": "туманный лиственный лес, сухая трава, камера медленно идёт",
+  "tags": [
+   "лес",
+   "туман",
+   "осень"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "16497612": {
+  "file": "clips/pexels_16497612.mp4",
+  "sheet": "sheets/pexels_16497612.jpg",
+  "page": "https://www.pexels.com/video/16497612/",
+  "url": "https://videos.pexels.com/video-files/16497612/16497612-hd_1920_1080_24fps.mp4",
+  "duration": 120.0,
+  "max_video": 133.3,
+  "desc": "Земля из космоса крупно, вращение, звёзды (3D-рендер)",
+  "tags": [
+   "космос",
+   "планета",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "18891105": {
+  "file": "clips/pexels_18891105.mp4",
+  "sheet": "sheets/pexels_18891105.jpg",
+  "page": "https://www.pexels.com/video/18891105/",
+  "url": "https://videos.pexels.com/video-files/18891105/18891105-hd_1920_1080_24fps.mp4",
+  "duration": 28.1,
+  "max_video": 31.2,
+  "desc": "серое море в тумане до горизонта",
+  "tags": [
+   "море",
+   "туман",
+   "пусто"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": "дальше по клипу появляется лодка"
+ },
+ "19492332": {
+  "file": "clips/pexels_19492332.mp4",
+  "sheet": "sheets/pexels_19492332.jpg",
+  "page": "https://www.pexels.com/video/19492332/",
+  "url": "https://videos.pexels.com/video-files/19492332/19492332-hd_1920_1080_30fps.mp4",
+  "duration": 49.0,
+  "max_video": 54.4,
+  "desc": "засыпанный снегом цветок с красными бутонами, зимний лес размыт",
+  "tags": [
+   "цветы",
+   "снег",
+   "зима"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "19887145": {
+  "file": "clips/pexels_19887145.mp4",
+  "sheet": "sheets/pexels_19887145.jpg",
+  "page": "https://www.pexels.com/video/19887145/",
+  "url": "https://videos.pexels.com/video-files/19887145/19887145-hd_1920_1080_24fps.mp4",
+  "duration": 76.5,
+  "max_video": 85.0,
+  "desc": "снегопад в тёмном лесу, медленно",
+  "tags": [
+   "лес",
+   "снегопад",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "20087056": {
+  "file": "clips/pexels_20087056.mp4",
+  "sheet": "sheets/pexels_20087056.jpg",
+  "page": "https://www.pexels.com/video/20087056/",
+  "url": "https://videos.pexels.com/video-files/20087056/20087056-hd_1920_1080_30fps.mp4",
+  "duration": 40.9,
+  "max_video": 45.5,
+  "desc": "тёмный туманный лес, толстые стволы",
+  "tags": [
+   "лес",
+   "туман",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "20100164": {
+  "file": "clips/pexels_20100164.mp4",
+  "sheet": "sheets/pexels_20100164.jpg",
+  "page": "https://www.pexels.com/video/20100164/",
+  "url": "https://videos.pexels.com/video-files/20100164/20100164-hd_1920_1080_30fps.mp4",
+  "duration": 31.0,
+  "max_video": 34.4,
+  "desc": "тёмный туманный лес, камера плывёт вдоль стволов",
+  "tags": [
+   "лес",
+   "туман",
+   "тёмный",
+   "движение"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "20556585": {
+  "file": "clips/pexels_20556585.mp4",
+  "sheet": "sheets/pexels_20556585.jpg",
+  "page": "https://www.pexels.com/video/20556585/",
+  "url": "https://videos.pexels.com/video-files/20556585/20556585-hd_1920_1080_24fps.mp4",
+  "duration": 120.0,
+  "max_video": 133.4,
+  "desc": "звёздное поле, лёгкая туманность (3D)",
+  "tags": [
+   "космос",
+   "звёзды",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "2317858": {
+  "file": "clips/pexels_2317858.mp4",
+  "sheet": "sheets/pexels_2317858.jpg",
+  "page": "https://www.pexels.com/video/2317858/",
+  "url": "https://videos.pexels.com/video-files/2317858/2317858-hd_1920_1080_24fps.mp4",
+  "duration": 30.2,
+  "max_video": 33.6,
+  "desc": "бокал под пивными кранами в баре, тёплый свет",
+  "tags": [
+   "пиво",
+   "бар",
+   "тёплый"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": "на бокале логотип пивоварни"
+ },
+ "2356468": {
+  "file": "clips/pexels_2356468.mp4",
+  "sheet": "sheets/pexels_2356468.jpg",
+  "page": "https://www.pexels.com/video/2356468/",
+  "url": "https://videos.pexels.com/video-files/2356468/2356468-hd_1920_1080_24fps.mp4",
+  "duration": 109.5,
+  "max_video": 121.7,
+  "desc": "пиво льётся в пустой стакан до полного, чёрный фон",
+  "tags": [
+   "пиво",
+   "наливают",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "27394420": {
+  "file": "clips/pexels_27394420.mp4",
+  "sheet": "sheets/pexels_27394420.jpg",
+  "page": "https://www.pexels.com/video/27394420/",
+  "url": "https://videos.pexels.com/video-files/27394420/12133356_1920_1080_24fps.mp4",
+  "duration": 120.0,
+  "max_video": 133.3,
+  "desc": "туманность, яркая звезда, розово-синяя (3D)",
+  "tags": [
+   "космос",
+   "туманность",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "28757745": {
+  "file": "clips/pexels_28757745.mp4",
+  "sheet": "sheets/pexels_28757745.jpg",
+  "page": "https://www.pexels.com/video/28757745/",
+  "url": "https://videos.pexels.com/video-files/28757745/12469213_1920_1080_50fps.mp4",
+  "duration": 30.0,
+  "max_video": 33.3,
+  "desc": "скала в туманном море, дрон облетает",
+  "tags": [
+   "море",
+   "скала",
+   "туман",
+   "движение"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "30435345": {
+  "file": "clips/pexels_30435345.mp4",
+  "sheet": "sheets/pexels_30435345.jpg",
+  "page": "https://www.pexels.com/video/30435345/",
+  "url": "https://videos.pexels.com/video-files/30435345/13042707_1920_1080_30fps.mp4",
+  "duration": 29.6,
+  "max_video": 32.8,
+  "desc": "ветка с розовыми бутонами в снегу и льду, светлый фон",
+  "tags": [
+   "цветы",
+   "снег",
+   "светлый",
+   "нежный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "3188149": {
+  "file": "clips/pexels_3188149.mp4",
+  "sheet": "sheets/pexels_3188149.jpg",
+  "page": "https://www.pexels.com/video/3188149/",
+  "url": "https://videos.pexels.com/video-files/3188149/3188149-hd_1920_1080_24fps.mp4",
+  "duration": 37.3,
+  "max_video": 41.5,
+  "desc": "озеро в сумерках, лес на берегу, серое небо",
+  "tags": [
+   "озеро",
+   "сумерки"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "34277312": {
+  "file": "clips/pexels_34277312.mp4",
+  "sheet": "sheets/pexels_34277312.jpg",
+  "page": "https://www.pexels.com/video/34277312/",
+  "url": "https://videos.pexels.com/video-files/34277312/14521390_1920_1080_30fps.mp4",
+  "duration": 29.6,
+  "max_video": 32.8,
+  "desc": "ромашки в синем тумане, деревья размыты",
+  "tags": [
+   "цветы",
+   "синий",
+   "туман"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "35330875": {
+  "file": "clips/pexels_35330875.mp4",
+  "sheet": "sheets/pexels_35330875.jpg",
+  "page": "https://www.pexels.com/video/35330875/",
+  "url": "https://videos.pexels.com/video-files/35330875/14969598_1920_1080_30fps.mp4",
+  "duration": 30.0,
+  "max_video": 33.3,
+  "desc": "голубое озеро, деревянный пирс, лёгкий туман",
+  "tags": [
+   "озеро",
+   "пирс",
+   "светлый",
+   "голубой"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "35646798": {
+  "file": "clips/pexels_35646798.mp4",
+  "sheet": "sheets/pexels_35646798.jpg",
+  "page": "https://www.pexels.com/video/35646798/",
+  "url": "https://videos.pexels.com/video-files/35646798/15106217_1920_1080_30fps.mp4",
+  "duration": 58.0,
+  "max_video": 64.4,
+  "desc": "цветы в инее крупно, хризантемы, утро",
+  "tags": [
+   "цветы",
+   "иней",
+   "утро"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "3700846": {
+  "file": "clips/pexels_3700846.mp4",
+  "sheet": "sheets/pexels_3700846.jpg",
+  "page": "https://www.pexels.com/video/3700846/",
+  "url": "https://videos.pexels.com/video-files/3700846/3700846-hd_1920_1080_30fps.mp4",
+  "duration": 32.1,
+  "max_video": 35.7,
+  "desc": "метель в аллее, чёрные деревья, белый снег",
+  "tags": [
+   "метель",
+   "деревья",
+   "зима",
+   "чб"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "3842456": {
+  "file": "clips/pexels_3842456.mp4",
+  "sheet": "sheets/pexels_3842456.jpg",
+  "page": "https://www.pexels.com/video/3842456/",
+  "url": "https://videos.pexels.com/video-files/3842456/3842456-hd_1920_1080_30fps.mp4",
+  "duration": 41.7,
+  "max_video": 46.4,
+  "desc": "туманное озеро, зелёный луг, пирс вдали",
+  "tags": [
+   "озеро",
+   "туман",
+   "луг",
+   "светлый"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "38476919": {
+  "file": "clips/pexels_38476919.mp4",
+  "sheet": "sheets/pexels_38476919.jpg",
+  "page": "https://www.pexels.com/video/38476919/",
+  "url": "https://videos.pexels.com/video-files/38476919/16340948_1920_1080_25fps.mp4",
+  "duration": 30.9,
+  "max_video": 34.3,
+  "desc": "груда старых жестяных роботов, крупно",
+  "tags": [
+   "игрушки",
+   "роботы",
+   "яркий"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "38476920": {
+  "file": "clips/pexels_38476920.mp4",
+  "sheet": "sheets/pexels_38476920.jpg",
+  "page": "https://www.pexels.com/video/38476920/",
+  "url": "https://videos.pexels.com/video-files/38476920/16340949_1920_1080_25fps.mp4",
+  "duration": 30.9,
+  "max_video": 34.3,
+  "desc": "полка со старыми жестяными роботами, тёплый фон",
+  "tags": [
+   "игрушки",
+   "роботы",
+   "магазин игрушек"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "38806038": {
+  "file": "clips/pexels_38806038.mp4",
+  "sheet": "sheets/pexels_38806038.jpg",
+  "page": "https://www.pexels.com/video/38806038/",
+  "url": "https://videos.pexels.com/video-files/38806038/16494465_1920_1080_25fps.mp4",
+  "duration": 31.2,
+  "max_video": 34.7,
+  "desc": "линия розлива пива, бутылки на конвейере за стеклом",
+  "tags": [
+   "пиво",
+   "завод",
+   "бутылки"
+  ],
+  "people": "не проверено полностью",
+  "avoid": "людей в 6 кадрах не видно, но проверь весь клип"
+ },
+ "39257166": {
+  "file": "clips/pexels_39257166.mp4",
+  "sheet": "sheets/pexels_39257166.jpg",
+  "page": "https://www.pexels.com/video/39257166/",
+  "url": "https://videos.pexels.com/video-files/39257166/16702700_1920_1080_30fps.mp4",
+  "duration": 31.6,
+  "max_video": 35.1,
+  "desc": "туман над тёмным озером, хвойный берег",
+  "tags": [
+   "озеро",
+   "туман",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "5562992": {
+  "file": "clips/pexels_5562992.mp4",
+  "sheet": "sheets/pexels_5562992.jpg",
+  "page": "https://www.pexels.com/video/5562992/",
+  "url": "https://videos.pexels.com/video-files/5562992/5562992-hd_1920_1080_24fps.mp4",
+  "duration": 40.5,
+  "max_video": 45.0,
+  "desc": "туман над осенним лесом и озером сверху",
+  "tags": [
+   "лес",
+   "туман",
+   "осень",
+   "сверху"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "6223805": {
+  "file": "clips/pexels_6223805.mp4",
+  "sheet": "sheets/pexels_6223805.jpg",
+  "page": "https://www.pexels.com/video/6223805/",
+  "url": "https://videos.pexels.com/video-files/6223805/6223805-hd_1920_1080_30fps.mp4",
+  "duration": 59.5,
+  "max_video": 66.1,
+  "desc": "кружка пива с пеной через край, чёрный фон",
+  "tags": [
+   "пиво",
+   "пена",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "6223837": {
+  "file": "clips/pexels_6223837.mp4",
+  "sheet": "sheets/pexels_6223837.jpg",
+  "page": "https://www.pexels.com/video/6223837/",
+  "url": "https://videos.pexels.com/video-files/6223837/6223837-hd_1920_1080_30fps.mp4",
+  "duration": 59.6,
+  "max_video": 66.3,
+  "desc": "кружка наполняется пивом, пена оседает, чёрный фон",
+  "tags": [
+   "пиво",
+   "наливают",
+   "тёмный"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "6415315": {
+  "file": "clips/pexels_6415315.mp4",
+  "sheet": "sheets/pexels_6415315.jpg",
+  "page": "https://www.pexels.com/video/6415315/",
+  "url": "https://videos.pexels.com/video-files/6415315/6415315-hd_1920_1080_25fps.mp4",
+  "duration": 41.8,
+  "max_video": 46.4,
+  "desc": "заснеженные ёлки, дрон, сверху свисают ветки ивы",
+  "tags": [
+   "лес",
+   "снег"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": "в кадре висят странные ветки"
+ },
+ "6868445": {
+  "file": "clips/pexels_6868445.mp4",
+  "sheet": "sheets/pexels_6868445.jpg",
+  "page": "https://www.pexels.com/video/6868445/",
+  "url": "https://videos.pexels.com/video-files/6868445/6868445-hd_1920_1080_24fps.mp4",
+  "duration": 61.3,
+  "max_video": 68.1,
+  "desc": "размытая ёлка под снегом, редкие снежинки, светлый",
+  "tags": [
+   "зима",
+   "снег",
+   "размыто",
+   "светлый"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "7592168": {
+  "file": "clips/pexels_7592168.mp4",
+  "sheet": "sheets/pexels_7592168.jpg",
+  "page": "https://www.pexels.com/video/7592168/",
+  "url": "https://videos.pexels.com/video-files/7592168/7592168-hd_1920_1080_24fps.mp4",
+  "duration": 34.7,
+  "max_video": 38.5,
+  "desc": "морозные узоры на окне, тают (таймлапс), синий",
+  "tags": [
+   "иней",
+   "окно",
+   "синий"
+  ],
+  "people": "нет (проверено по кадрам)",
+  "avoid": ""
+ },
+ "30554327": {
+  "file": "clips/pexels_30554327.mp4",
+  "sheet": "sheets/pexels_30554327.jpg",
+  "page": "https://www.pexels.com/video/30554327/",
+  "url": "",
+  "duration": 43.4,
+  "max_video": 48.2,
+  "desc": "замёрзшее озеро в густом тумане, куст на льду, голые ветки на переднем плане, светлый",
+  "tags": [
+   "озеро",
+   "лёд",
+   "туман",
+   "зима",
+   "светлый"
+  ],
+  "people": "нет (проверено по 16 кадрам)",
+  "avoid": ""
+ },
+ "6527126": {
+  "file": "clips/pexels_6527126.mp4",
+  "url": "https://videos.pexels.com/video-files/6527126/6527126-hd_1920_1080_25fps.mp4",
+  "duration": 38.7,
+  "desc": "снег под фонарём ночью между домами, вид снизу вверх, тёмный",
+  "tags": [
+   "ночь",
+   "фонарь",
+   "снег",
+   "город",
+   "тёмный"
+  ],
+  "people": "нет (проверено по 16 кадрам)",
+  "avoid": ""
+ },
+ "9945249": {
+  "file": "clips/pexels_9945249.mp4",
+  "url": "https://videos.pexels.com/video-files/9945249/9945249-hd_1920_1080_24fps.mp4",
+  "duration": 49.0,
+  "desc": "капли дождя на стекле, синий, за стеклом размыто",
+  "tags": [
+   "дождь",
+   "стекло",
+   "окно",
+   "синий"
+  ],
+  "people": "нет (проверено по 16 кадрам)",
+  "avoid": ""
+ },
+ "5517030": {
+  "file": "clips/pexels_5517030.mp4",
+  "url": "https://videos.pexels.com/video-files/5517030/5517030-hd_1920_1080_30fps.mp4",
+  "duration": 31.6,
+  "desc": "дождь за окном, размытая зелень и дорога",
+  "tags": [
+   "дождь",
+   "окно",
+   "зелень"
+  ],
+  "people": "людей нет, по дороге проезжает машина",
+  "avoid": "машина на дороге около 10 с"
+ },
+ "8549580": {
+  "file": "clips/pexels_8549580.mp4",
+  "url": "https://videos.pexels.com/video-files/8549580/8549580-hd_1920_1080_25fps.mp4",
+  "duration": 37.5,
+  "desc": "дождь на стекле, серое небо, за стеклом размытые тёмные деревья",
+  "tags": [
+   "дождь",
+   "окно",
+   "стекло",
+   "серый"
+  ],
+  "people": "нет (весь клип проверен)",
+  "avoid": ""
+ },
+ "6156480": {
+  "file": "clips/pexels_6156480.mp4",
+  "url": "https://videos.pexels.com/video-files/6156480/6156480-hd_1920_1080_25fps.mp4",
+  "duration": 30.0,
+  "desc": "золотой туман над озером на рассвете, камыш, мостки слева",
+  "tags": [
+   "озеро",
+   "туман",
+   "рассвет",
+   "тёплый"
+  ],
+  "people": "нет (проверено по кадрам через 4 с)",
+  "avoid": ""
+ },
+ "28647789": {
+  "file": "clips/pexels_28647789.mp4",
+  "url": "https://videos.pexels.com/video-files/28647789/12442338_1920_1080_30fps.mp4",
+  "duration": 48.7,
+  "desc": "туманное озеро, лодки у причала, сосны, розовое небо",
+  "tags": [
+   "озеро",
+   "туман",
+   "лодки",
+   "причал",
+   "утро"
+  ],
+  "people": "нет (проверено по кадрам через 4 с)",
+  "avoid": ""
+ },
+ "35830059": {
+  "file": "clips/pexels_35830059.mp4",
+  "url": "https://videos.pexels.com/video-files/35830059/15192768_1920_1080_60fps.mp4",
+  "duration": 89.5,
+  "desc": "грунтовая дорога в поле в густом тумане, сухая трава",
+  "tags": [
+   "дорога",
+   "поле",
+   "туман",
+   "осень"
+  ],
+  "people": "ДА: человек входит справа на ~43 с и уходит по дороге",
+  "avoid": "после 40 с человек в кадре; брать clip_in + длина×0.9 ≤ 40"
+ },
+ "5628468": {
+  "file": "clips/pexels_5628468.mp4",
+  "url": "https://videos.pexels.com/video-files/5628468/5628468-hd_1920_1080_30fps.mp4",
+  "duration": 31.7,
+  "desc": "лодочный домик на озере, пар над водой, синее небо, лес",
+  "tags": [
+   "озеро",
+   "дом",
+   "туман",
+   "утро"
+  ],
+  "people": "нет (проверено по кадрам через 4 с)",
+  "avoid": "яркое синее небо, туман только над водой"
+ },
+ "6877506": {
+  "file": "clips/pexels_6877506.mp4",
+  "url": "https://videos.pexels.com/video-files/6877506/6877506-hd_1920_1080_30fps.mp4",
+  "duration": 39.7,
+  "desc": "крыло самолёта над облаками на закате, рамка иллюминатора",
+  "tags": [
+   "облака",
+   "небо",
+   "самолёт",
+   "закат"
+  ],
+  "people": "людей нет",
+  "avoid": "в кадре крыло и рамка иллюминатора"
+ },
+ "855557": {
+  "file": "clips/pexels_855557.mp4",
+  "url": "https://videos.pexels.com/video-files/855557/855557-hd_1920_1080_30fps.mp4",
+  "duration": 72.4,
+  "desc": "облака сверху из самолёта, синий",
+  "tags": [
+   "облака",
+   "небо",
+   "сверху",
+   "синий"
+  ],
+  "people": "людей нет",
+  "avoid": "в углу иногда край иллюминатора"
+ },
+ "12858363": {
+  "file": "clips/pexels_12858363.mp4",
+  "url": "https://videos.pexels.com/video-files/12858363/12858363-hd_1920_1080_30fps.mp4",
+  "duration": 97.1,
+  "desc": "туман и белые облака в горах",
+  "tags": [
+   "облака",
+   "туман",
+   "горы"
+  ],
+  "people": "людей нет (проверен весь клип)",
+  "avoid": ""
+ },
+ "35161057": {
+  "file": "clips/pexels_35161057.mp4",
+  "url": "https://videos.pexels.com/video-files/35161057/14894556_1920_1080_30fps.mp4",
+  "duration": 17.3,
+  "desc": "светлая занавеска на солнце, тени деревьев колышутся",
+  "tags": [
+   "занавеска",
+   "солнце",
+   "утро",
+   "тёплый",
+   "окно"
+  ],
+  "people": "нет (проверено по превью)",
+  "avoid": "короткий, 17 с"
+ },
+ "5482661": {
+  "file": "clips/pexels_5482661.mp4",
+  "url": "https://videos.pexels.com/video-files/5482661/5482661-hd_1920_1080_30fps.mp4",
+  "duration": 40.3,
+  "desc": "тюль и красная штора на солнце, комната в полутени",
+  "tags": [
+   "занавеска",
+   "солнце",
+   "утро",
+   "комната"
+  ],
+  "people": "нет (проверено по кадрам через 2.5 с)",
+  "avoid": ""
+ },
+ "4106940": {
+  "file": "clips/pexels_4106940.mp4",
+  "url": "https://videos.pexels.com/video-files/4106940/4106940-hd_1920_1080_25fps.mp4",
+  "duration": 57.5,
+  "desc": "тени листвы на деревянной стене, солнце",
+  "tags": [
+   "тени",
+   "листва",
+   "солнце",
+   "стена",
+   "тёплый"
+  ],
+  "people": "нет (проверено по 16 кадрам на весь клип)",
+  "avoid": ""
+ },
+ "32963489": {
+  "file": "clips/pexels_32963489.mp4",
+  "url": "https://videos.pexels.com/video-files/32963489/14048809_1920_1080_24fps.mp4",
+  "duration": 60.2,
+  "desc": "восьмиугольные часы, красная кружка и фигурка гнома на полке в солнечном луче",
+  "tags": [
+   "часы",
+   "полка",
+   "солнце",
+   "комната"
+  ],
+  "people": "нет (проверено по 16 кадрам на весь клип)",
+  "avoid": ""
+ },
+ "12424577": {
+  "file": "clips/pexels_12424577.mp4",
+  "url": "https://videos.pexels.com/video-files/12424577/12424577-hd_1920_1080_25fps.mp4",
+  "duration": 64.0,
+  "desc": "летящие семена одуванчика",
+  "tags": [
+   "одуванчик",
+   "солнце",
+   "лето"
+  ],
+  "people": "нет (проверено по 16 кадрам на весь клип)",
+  "avoid": ""
+ },
+ "10753302": {
+  "file": "clips/pexels_10753302.mp4",
+  "url": "https://videos.pexels.com/video-files/10753302/10753302-hd_1920_1080_30fps.mp4",
+  "duration": 129.0,
+  "desc": "таймлапс: тёмные облака плывут по жёлто-оранжевому небу",
+  "tags": [
+   "облака",
+   "небо",
+   "закат",
+   "жёлтый"
+  ],
+  "people": "нет (проверено по 16 кадрам на весь клип)",
+  "avoid": ""
+ },
+ "user_slowdancing": {
+  "file": "clips/pexels_user_slowdancing.mp4",
+  "url": "прислал пользователь с треком slowdancing (2026-11-18)",
+  "duration": 120.0,
+  "desc": "картинка пользователя: парень в белом смокинге курит, бирюзовый свет (статичный кадр)",
+  "tags": [
+   "человек",
+   "бирюзовый",
+   "тёмный",
+   "картинка"
+  ],
+  "people": "есть: человек в кадре - картинку прислал пользователь, взята по его выбору",
+  "avoid": "статичный кадр, только наезд движка"
+ },
+ "20126687": {
+  "file": "clips/pexels_20126687.mp4",
+  "url": "https://videos.pexels.com/video-files/20126687/20126687-hd_1920_1080_30fps.mp4",
+  "duration": 40.9,
+  "desc": "голые деревья в густом тумане, сухая трава, камера идёт",
+  "tags": [
+   "лес",
+   "туман",
+   "осень",
+   "движение"
+  ],
+  "people": "нет: проверил всё превью и клип 2026-11-18",
+  "avoid": ""
+ },
+ "6056609": {
+  "file": "clips/pexels_6056609.mp4",
+  "url": "https://videos.pexels.com/video-files/6056609/6056609-hd_1920_1080_30fps.mp4",
+  "duration": 40.9,
+  "desc": "размытая мгла, белые точки дождя, тёмный фон",
+  "tags": [
+   "размыто",
+   "тёмный",
+   "дождь"
+  ],
+  "people": "нет: проверил всё превью и клип 2026-11-18",
+  "avoid": ""
+ },
+ "11514996": {
+  "file": "clips/pexels_11514996.mp4",
+  "url": "https://videos.pexels.com/video-files/11514996/11514996-hd_1920_1080_30fps.mp4",
+  "duration": 84.5,
+  "desc": "туманное болото, мокрая трава, ветки, камера едет",
+  "tags": [
+   "туман",
+   "болото",
+   "утро"
+  ],
+  "people": "нет: проверил всё превью и клип 2026-11-18",
+  "avoid": ""
+ },
+ "39121536": {
+  "file": "clips/pexels_39121536.mp4",
+  "url": "https://videos.pexels.com/video-files/39121536/16647276_1920_1080_30fps.mp4",
+  "duration": 62.3,
+  "desc": "туман над озером на рассвете, солнце сквозь лес",
+  "tags": [
+   "озеро",
+   "туман",
+   "рассвет",
+   "солнце"
+  ],
+  "people": "нет: проверил всё превью и клип 2026-11-18",
+  "avoid": ""
+ }
+}

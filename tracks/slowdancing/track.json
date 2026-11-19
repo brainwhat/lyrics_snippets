@@ -1,0 +1,21 @@
+{
+ "title": "Slow Dancing in the Dark",
+ "artist": "Joji",
+ "lang": "en",
+ "source": "/Users/vasilijfrolov/Downloads/Joji - SLOW DANCING IN THE DARK (K3Qzzggn--s).mp3",
+ "duration": 217.22,
+ "sections": [
+  {"name": "интро", "start": 0.0, "end": 21.9},
+  {"name": "куплет 1", "start": 21.9, "end": 39.35},
+  {"name": "фраза «I'll fight it all night» (неразборчиво)", "start": 39.3, "end": 43.25},
+  {"name": "предприпев", "start": 45.2, "end": 62.25},
+  {"name": "припев 1", "start": 63.45, "end": 88.9},
+  {"name": "припев 1, «in the dark»", "start": 89.0, "end": 107.6},
+  {"name": "куплет 2", "start": 107.85, "end": 137.0},
+  {"name": "неразборчивая часть (в текст не бралась)", "start": 137.0, "end": 153.3},
+  {"name": "припев 2 + аутро", "start": 153.3, "end": 204.6},
+  {"name": "тишина", "start": 204.6, "end": 217.22}
+ ],
+ "notes": "Английский, Whisper. Текста от пользователя нет: текст собран по words.json и слуху, сомнительные места вынесены в отчёт 2026-11-18. Whisper ошибается: «I don't need no more stars» (в песне «signs»), «You should be with them» («him»), «I'm the one that's loaded» (это «I don't wanna slow dance»), «Anyone who's loaning» (тоже «I don't wanna slow dance»), «Shutting me out, you» / «Doing so great, you». Фраза 39.3-41.2 с и кусок 137-153.3 с («I don't fuck with your tongue / I don't wanna go home / Can I be wondering? Can you?») в видео не взяты. Футаж: картинку с курящим в смокинге прислал пользователь (user_slowdancing), остальное - сток без людей.",
+ "videos": ["slowdancing1", "slowdancing2", "slowdancing3", "slowdancing4", "slowdancing5", "slowdancing6"]
+}
